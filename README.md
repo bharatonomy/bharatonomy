@@ -22,8 +22,6 @@ All my socials are here:
 
 <!-- ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebharatmishra&show_icons=true&theme=dark) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark)
-
 ## Languages :
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -33,10 +31,17 @@ All my socials are here:
 ![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 
--   Javascript / Typescript
--   Python
--   C / C++
--   Rust
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark) -->
+
+<div style='display:flex; flex-direction:row'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark'>
+<ul >
+<li>Javascript / Typescript</li>
+<li>Python</li>
+<li>C / C++</li>
+<li>Rust</li>
+</ul>
+</div>
 
 ## FrontEnd Technologies:
 
