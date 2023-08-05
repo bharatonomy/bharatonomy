@@ -115,9 +115,9 @@ All my socials :
 ![lmms](https://img.shields.io/badge/LMMS-10B146.svg?style=for-the-badge&logo=LMMS&logoColor=white)
 
 -   Git / Github
--   Blender3D
+-   Blender3D - [All the artwork I did is posted here.](https://thebharatmishra.artstation.com/)
 -   GIMP - Image Manipulation Software
--   Godot - Game Engine
+-   Godot - Game Engine - [Browse the games I made using this software.](https://bhanudev.itch.io/)
 -   LMMS - Music Production Software
 -   Inkscape - Vector based Image Manipulation Software
 -   Kdenlive - Video Editing Software
