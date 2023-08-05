@@ -31,21 +31,12 @@ All my socials :
 ![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark)
 
-<div style='display:flex;'>
-<div style='flex-direction:column;'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark'/>
-</div>
-<div style='flex-direction:column;'>
-<ul >
-<li>Javascript / Typescript</li>
-<li>Python</li>
-<li>C / C++</li>
-<li>Rust</li>
-</ul>
-</div>
-</div>
+-   Typescript / Javascript
+-   Python
+-   C / C++
+-   Rust
 
 ## FrontEnd Technologies:
 
