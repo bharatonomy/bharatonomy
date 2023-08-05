@@ -1,8 +1,8 @@
 # Bharat Mishra
 
-aka Bhanu. Contact : `mishrabm2004@gmail.com`
+aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 
-All my socials are here:
+All my socials :
 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheBharatMishra)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebharatmishra)
@@ -33,14 +33,18 @@ All my socials are here:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark) -->
 
-<div style='display:flex; flex-direction:row'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark'>
+<div style='display:flex;'>
+<div style='flex-direction:column;'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark'/>
+</div>
+<div style='flex-direction:column;'>
 <ul >
 <li>Javascript / Typescript</li>
 <li>Python</li>
 <li>C / C++</li>
 <li>Rust</li>
 </ul>
+</div>
 </div>
 
 ## FrontEnd Technologies:
@@ -88,7 +92,7 @@ All my socials are here:
 -   Firebase Realtime Database / Firestore
 -   ORM: TypeORM, Prisma, Sequelize
 
-## Cloud
+## Cloud & DevOps
 
 ![aws](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
