@@ -6,7 +6,8 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30vw"/>](https://www.linkedin.com/in/thebharatmishra)
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" width="30vw"/>](https://thebharatmishra.artstation.com/)
 [<img src="https://cdn.svgporn.com/logos/youtube-icon.svg" width="30vw"/>](https://www.youtube.com/@thebharatmishra)
-[<img src="https://static.itch.io/images/itchio-textless-black.svg" width="30vw"/>](https://bhanudev.itch.io)
+[<img style="filter: invert(48%) sepia(13%) saturate(3200%) hue-rotate(320deg) brightness(95%) contrast(80%);
+" src="https://static.itch.io/images/itchio-textless-black.svg" width="30vw"/>](https://bhanudev.itch.io)
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30vw"/>](https://www.kaggle.com/thebharatmishra)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerone.svg" width="15vw"/>](https://bhanudev.itch.io)
 [<img src="https://logos.bugcrowdusercontent.com/logos/ef74/d1fa/62a5b64c/3809e0af42850a579f02c3434743e3ca_bugcrowd__1_.png" width="30vw"/>](https://bugcrowd.com/8hanu)
@@ -72,7 +73,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - RestAPI
 - tRPC -->
 
-### Database:
+### Databases & ORMs:
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
@@ -82,6 +83,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 ![prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
 ![supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
 <!--
 - PostgreSQL
