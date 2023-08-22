@@ -9,8 +9,9 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 [<img src="https://static.itch.io/images/itchio-textless-black.svg" width="30vw"/>](https://bhanudev.itch.io)
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30vw"/>](https://www.kaggle.com/thebharatmishra)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerone.svg" width="15vw"/>](https://bhanudev.itch.io)
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30vw"/>](https://bhanudev.itch.io)
 [<img src="https://logos.bugcrowdusercontent.com/logos/ef74/d1fa/62a5b64c/3809e0af42850a579f02c3434743e3ca_bugcrowd__1_.png" width="30vw"/>](https://bugcrowd.com/8hanu)
+
+<!-- [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30vw"/>](https://bhanudev.itch.io) -->
 
 <!--
 [![artstation](https://img.shields.io/badge/ArtStation-00162A?style=for-the-badge&logo=ArtStation&logoColor=white)](https://thebharatmishra.artstation.com/)
@@ -28,6 +29,8 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - 2D/3D Art Creation<!-- - [I host my art stuff in artstation.](https://thebharatmishra.artstation.com/) -->
 - DevOps
 <!-- ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebharatmishra&show_icons=true&theme=dark) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark)
 
 <!-- ## Languages : -->
 
@@ -130,5 +133,3 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - Kdenlive - [Edited videos are here.](https://www.youtube.com/@bhanuarchive) -->
 
 ## <!-- ## Projects -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark)
