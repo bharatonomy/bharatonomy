@@ -31,10 +31,9 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - DevOps
 <!-- ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebharatmishra&show_icons=true&theme=dark) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=radical)
 
 <!-- ## Languages : -->
-
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -133,5 +132,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - GIMP/Inkscape - [Thumbnails I make using these](https://www.youtube.com/@bhanuarchive)
 - LMMS - [Checkout my music stuff. ](https://www.youtube.com/playlist?list=PLxafWB9qtaFQhlo7XpTQviM0l05zyuthM)
 - Kdenlive - [Edited videos are here.](https://www.youtube.com/@bhanuarchive) -->
+
+![TheBharatMishra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBharatMishra&theme=radical&hide_border=true)
 
 ## <!-- ## Projects -->
