@@ -1,7 +1,12 @@
-# नमस्कार🙏 मैं Bharat Mishra.
+<!-- # नमस्कार🙏 मैं Bharat Mishra. -->
 
-aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
+# Bharat Mishra.
 
+Contact: [`bharatmishrawork@yahoo.com`](mailto:bharatmishrawork@yahoo.com)
+
+Working on a lot of things at once. If you think my work is good enough, kindly reach out to me via my email. Thanks.
+
+<!--
 [<img src="https://cdn.svgporn.com/logos/twitter.svg" width="30vw"/>](https://twitter.com/TheBharatMishra/)
 [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30vw"/>](https://www.linkedin.com/in/thebharatmishra)
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" width="30vw"/>](https://thebharatmishra.artstation.com/)
@@ -10,7 +15,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 " src="https://static.itch.io/images/itchio-textless-black.svg" width="30vw"/>](https://bhanudev.itch.io)
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30vw"/>](https://www.kaggle.com/thebharatmishra)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerone.svg" width="15vw"/>](https://bhanudev.itch.io)
-[<img src="https://logos.bugcrowdusercontent.com/logos/ef74/d1fa/62a5b64c/3809e0af42850a579f02c3434743e3ca_bugcrowd__1_.png" width="30vw"/>](https://bugcrowd.com/8hanu)
+[<img src="https://logos.bugcrowdusercontent.com/logos/ef74/d1fa/62a5b64c/3809e0af42850a579f02c3434743e3ca_bugcrowd__1_.png" width="30vw"/>](https://bugcrowd.com/8hanu) -->
 
 <!-- [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30vw"/>](https://bhanudev.itch.io) -->
 
@@ -22,16 +27,19 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://bhanudev.itch.io/)
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/thebharatmishra) -->
 
-## Skills:
+<!-- ## Skills: -->
 
-- Data Analysis
-- Web Development<!-- - [Web Projects I made.](https://thebharatmishra.github.io/projects/web) -->
-- Mobile Development<!-- - [Mobile applications I developed.](https://thebharatmishra.github.io/projects/mobile) -->
-- 2D/3D Art Creation<!-- - [I host my art stuff in artstation.](https://thebharatmishra.artstation.com/) -->
-- DevOps
+<!-- - Data Analysis -->
+<!-- - Web Development -->
+<!-- - [Web Projects I made.](https://thebharatmishra.github.io/projects/web) -->
+<!-- - Mobile Development -->
+<!-- - [Mobile applications I developed.](https://thebharatmishra.github.io/projects/mobile) -->
+<!-- - 2D/3D Art Creation -->
+<!-- - [I host my art stuff in artstation.](https://thebharatmishra.artstation.com/) -->
+<!-- - DevOps -->
 <!-- ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebharatmishra&show_icons=true&theme=dark) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=radical)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharatmishra&layout=donut&theme=radical) -->
 
 <!-- ## Languages : -->
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -40,17 +48,17 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 ![c](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white) -->
-
+<!--
 ## Tools & Technologies I know:
 
-### FrontEnd Technologies:
-
+### FrontEnd Technologies: -->
+<!--
 ![reactjs](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![nextjs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+![vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white) -->
 
 <!-- - ReactJS
 - NextJS
@@ -58,13 +66,13 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - TailwindCSS
 - Vite -->
 
-### BackEnd Technologies:
+<!-- ### BackEnd Technologies:
 
 ![nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![restapi](https://img.shields.io/badge/restapi-009F74?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
-![trpc](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
+![trpc](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) -->
 
 <!--
 - Nodejs/ExpressJS
@@ -72,7 +80,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - RestAPI
 - tRPC -->
 
-### Databases & ORMs:
+<!-- ### Databases & ORMs:
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
@@ -82,7 +90,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 ![prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
 ![supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white) -->
 
 <!--
 - PostgreSQL
@@ -91,17 +99,17 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - Firebase Realtime Database / Firestore
 - ORM: TypeORM, Prisma, Sequelize -->
 
-### Cloud & DevOps
-
+<!-- ### Cloud & DevOps -->
+<!--
 #### Cloud Platforms:
 
-![aws](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white) -->
 
 <!-- ![azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white) -->
 
 <!-- - Amazon Web Services (AWS) -->
 <!-- - Microsoft Azure -->
-
+<!--
 #### DevOps Tools:
 
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
@@ -110,10 +118,10 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 ![ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white)
 ![prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
-![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
+![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white) -->
 
 <!-- Docker, Kubernetes, Ansible, Jenkins, Prometheus, Grafana, Terraform. -->
-
+<!--
 ### Others:
 
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
@@ -123,7 +131,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 ![](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![godot](https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white)
 ![kdenlive](https://img.shields.io/badge/Kdenlive-527EB2.svg?style=for-the-badge&logo=Kdenlive&logoColor=white)
-![lmms](https://img.shields.io/badge/LMMS-10B146.svg?style=for-the-badge&logo=LMMS&logoColor=white)
+![lmms](https://img.shields.io/badge/LMMS-10B146.svg?style=for-the-badge&logo=LMMS&logoColor=white) -->
 
 <!--
 - Git / Github - [Here's my profile.](https://github.com/TheBharatMishra/)
@@ -132,7 +140,7 @@ aka Bhanu. Contact : [`mishrabm2004@gmail.com`](mailto:mishrabm2004@gmail.com)
 - GIMP/Inkscape - [Thumbnails I make using these](https://www.youtube.com/@bhanuarchive)
 - LMMS - [Checkout my music stuff. ](https://www.youtube.com/playlist?list=PLxafWB9qtaFQhlo7XpTQviM0l05zyuthM)
 - Kdenlive - [Edited videos are here.](https://www.youtube.com/@bhanuarchive) -->
-
-![TheBharatMishra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBharatMishra&theme=radical&hide_border=true)
+<!--
+![TheBharatMishra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheBharatMishra&theme=radical&hide_border=true) -->
 
 ## <!-- ## Projects -->
